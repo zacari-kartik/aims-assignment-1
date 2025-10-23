@@ -1,7 +1,7 @@
 import pandas as pd
 import numy as np
 
-data = pd.read_csv()
+data = pd.read_csv(data.csv)
 df = pd.DataFrame(data)
 print(df)
 print("\nMissing values count=")
